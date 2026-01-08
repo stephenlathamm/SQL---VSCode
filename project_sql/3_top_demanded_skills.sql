@@ -19,3 +19,5 @@ WHERE job_title_short = 'Business Analyst' AND job_work_from_home = 'FALSE'
 GROUP BY skills
 ORDER BY demand_count DESC
 LIMIT 8
+
+-- excel, sql, powerbi, tableau, python, powerpoint, r, sap
